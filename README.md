@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/syedbabar572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedbabar572" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syed-babar-ali-shah-14266915b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="babar-ali-shah/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/babar-ali-shah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="babar-ali-shah/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7950296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7950296" height="30" width="40" /></a>
 <a href="https://fb.com/syed babar ali shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed babar ali shah" height="30" width="40" /></a>
 <a href="https://instagram.com/syedbabarali_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedbabarali_s" height="30" width="40" /></a>
