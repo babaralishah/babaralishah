@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Angular, Python**
 
-- 📫 How to reach me **https://syed-babar-ali-shah.business.site/?utm_source=gmb&utm_medium=referral**
+- 📫 How to reach me **https://linkedin.com/in/babar-ali-shah/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
