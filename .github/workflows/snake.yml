@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Execute automatically every 24 hours
+  schedule:
     - cron: "0 0 * * *" 
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
   push:
     branches:
     - main
@@ -14,8 +14,6 @@ jobs:
     timeout-minutes: 10
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Checkout repo
