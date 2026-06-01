@@ -53,10 +53,19 @@
 
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babaralishah&show_icons=true&locale=en&layout=compact" alt="babaralishah" /></p>
+<div align="center">
+  <a href="https://github.com/babaralishah">
+    <img src="https://github-readme-stats.vercel.app/api?username=babaralishah&show_icons=true&locale=en&theme=default" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/babaralishah">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=babaralishah&show_icons=true&locale=en&layout=compact&theme=default" height="150" alt="Top Languages" />
+  </a>
+</div>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babaralishah&show_icons=true&locale=en" alt="babaralishah" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babaralishah&" alt="babaralishah" /></p>
+<div align="center">
+  <a href="https://github.com/babaralishah">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=babaralishah&theme=default" height="150" alt="GitHub Streak" />
+  </a>
+</div>
