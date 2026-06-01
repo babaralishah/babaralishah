@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Python, AI Alignment, RAG architectures (FAISS, Ollama), and Agentic task design (Tau-Bench)**
 
-- 📫 How to reach me **https://linkedin.com/in/babar-ali-shah/**
+- 📫 How to reach me **[https://linkedin.com/in/babar-ali-shah/](https://www.linkedin.com/in/babar-ali-shah-data-scientist/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
